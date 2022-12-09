@@ -15,7 +15,6 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 * When payload is over 10,000 kg's almost all the first stage landings are successful
 * ES-L1, GEO, HEO, and SSO Orbits had the highest success rates
 * The Kennedy Space Center Launch Complex 39A was shown to have the highest success ratio for landing outcomes
-* ES-L1, GEO, HEO, and SSO Orbits had the highest success rates
 * Logistic Regression, SVM, Decision Tree Classifier, and KNN all predicted success of first launch with 83% accuracy
   
 ## Conclusions
